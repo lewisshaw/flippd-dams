@@ -22,7 +22,7 @@
                 },
                 {
                   "title" : "A Ruby Tutorial",
-                  "slug" : "fundamentals-ruby-tutorial",
+                  "id" : "fundamentals-ruby-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/ruby/1_introduction.md",
                   "icon" : "pencil"
                 },
@@ -85,7 +85,7 @@
                 },
                 {
                   "title" : "Design tutorial",
-                  "slug" : "fundamentals-design-tutorial",
+                  "id" : "fundamentals-design-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/approach/planning_vs_reacting.md",
                   "icon" : "pencil"
                 },
@@ -109,7 +109,7 @@
                 },
                 {
                   "title" : "RSpec tutorial",
-                  "slug" : "fundamentals-rspec-tutorial",
+                  "id" : "fundamentals-rspec-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/1_basics.md",
                   "icon" : "pencil"
                 },
@@ -143,13 +143,13 @@
                 },
                 {
                   "title" : "RSpec test doubles tutorial",
-                  "slug" : "fundamentals-rspec-test-doubles-tutorial",
+                  "id" : "fundamentals-rspec-test-doubles-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/2_doubles.md",
                   "icon" : "pencil"
                 },
                 {
                   "title" : "RSpec integration testing tutorial",
-                  "slug" : "fundamentals-rspec-integration-testing-tutorial",
+                  "id" : "fundamentals-rspec-integration-testing-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/rspec/3_integration.md",
                   "icon" : "pencil"
                 },
@@ -184,7 +184,7 @@
                 },
                 {
                   "title" : "Ruby Parser tutorial",
-                  "slug" : "fundamentals-ruby-parser-tutorial",
+                  "id" : "fundamentals-ruby-parser-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/tools/ruby_parser.md",
                   "icon" : "pencil"
                 },
@@ -208,7 +208,7 @@
                 },
                 {
                   "title" : "Vagrant tutorial",
-                  "slug" : "fundamentals-vagrant-tutorial",
+                  "id" : "fundamentals-vagrant-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/blob/master/fundamentals/tools/vagrant.md",
                   "icon" : "pencil"
                 },
@@ -262,7 +262,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-size-tutorial",
+                  "id" : "habitable-programs-size-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/size",
                   "icon" : "pencil"
                 }
@@ -281,7 +281,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-size-tutorial",
+                  "id" : "habitable-programs-size-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/size",
                   "icon" : "pencil"
                 }
@@ -300,7 +300,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-size-tutorial",
+                  "id" : "habitable-programs-size-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/size",
                   "icon" : "pencil"
                 },
@@ -335,7 +335,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-complexity-tutorial",
+                  "id" : "habitable-programs-complexity-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/complexity",
                   "icon" : "pencil"
                 }
@@ -354,7 +354,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-complexity-tutorial",
+                  "id" : "habitable-programs-complexity-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/complexity",
                   "icon" : "pencil"
                 }
@@ -373,7 +373,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-complexity-tutorial",
+                  "id" : "habitable-programs-complexity-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/complexity",
                   "icon" : "pencil"
                 },
@@ -413,7 +413,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-clones-tutorial",
+                  "id" : "habitable-programs-clones-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
                   "icon" : "pencil"
                 }
@@ -432,7 +432,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-clones-tutorial",
+                  "id" : "habitable-programs-clones-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
                   "icon" : "pencil"
                 }
@@ -451,7 +451,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-clones-tutorial",
+                  "id" : "habitable-programs-clones-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clones",
                   "icon" : "pencil"
                 },
@@ -486,7 +486,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-coupling-tutorial",
+                  "id" : "habitable-programs-coupling-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/coupling",
                   "icon" : "pencil"
                 }
@@ -505,7 +505,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-coupling-tutorial",
+                  "id" : "habitable-programs-coupling-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/coupling",
                   "icon" : "pencil"
                 }
@@ -524,7 +524,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-coupling-tutorial",
+                  "id" : "habitable-programs-coupling-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/coupling",
                   "icon" : "pencil"
                 }
@@ -549,7 +549,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-cohesion-tutorial",
+                  "id" : "habitable-programs-cohesion-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/cohesion",
                   "icon" : "pencil"
                 }
@@ -568,7 +568,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-cohesion-tutorial",
+                  "id" : "habitable-programs-cohesion-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/cohesion",
                   "icon" : "pencil"
                 }
@@ -587,7 +587,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-cohesion-tutorial",
+                  "id" : "habitable-programs-cohesion-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/cohesion",
                   "icon" : "pencil"
                 }
@@ -612,7 +612,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-clarity-tutorial",
+                  "id" : "habitable-programs-clarity-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
                   "icon" : "pencil"
                 },
@@ -636,7 +636,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-clarity-tutorial",
+                  "id" : "habitable-programs-clarity-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
                   "icon" : "pencil"
                 },
@@ -660,7 +660,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-clarity-tutorial",
+                  "id" : "habitable-programs-clarity-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
                   "icon" : "pencil"
                 }
@@ -679,7 +679,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-clarity-tutorial",
+                  "id" : "habitable-programs-clarity-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/clarity",
                   "icon" : "pencil"
                 },
@@ -709,7 +709,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-extensibility-tutorial",
+                  "id" : "habitable-programs-extensibility-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
                   "icon" : "pencil"
                 }
@@ -728,7 +728,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-extensibility-tutorial",
+                  "id" : "habitable-programs-extensibility-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
                   "icon" : "pencil"
                 }
@@ -747,7 +747,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-extensibility-tutorial",
+                  "id" : "habitable-programs-extensibility-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
                   "icon" : "pencil"
                 }
@@ -766,7 +766,7 @@
                 },
                 {
                   "title" : "Practical",
-                  "slug" : "habitable-programs-extensibility-tutorial",
+                  "id" : "habitable-programs-extensibility-tutorial",
                   "url" : "https://github.com/york-cs-dams/practicals/tree/master/habitable_programs/exercises/extensibility",
                   "icon" : "pencil"
                 }
