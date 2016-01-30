@@ -8,6 +8,22 @@
         {
           "title" : "Ruby",
           "summary" : "An introduction to Ruby, which is the - purely object-oriented and somewhat functional - programming language used in DAMS.",
+          "questions" : [
+            {
+              "question" : "Is ruby Interpreted or compiled?",
+              "answers" : [
+                {"answer": "Interpreted", "correct": true},
+                {"answer": "Compiled", "correct": false}
+              ]
+            },
+            {
+              "question" : "Is ruby duck typed?",
+              "answers" : [
+                {"answer": "Yes", "correct": true},
+                {"answer": "No", "correct": false}
+              ]
+            }
+          ],
           "videos" : [
             {
               "title" : "Ruby",
