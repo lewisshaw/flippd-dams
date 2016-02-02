@@ -11,7 +11,7 @@
           "questions" : [
             {
               "question" : "Is ruby Interpreted or compiled?",
-              "correctAnswerId" : 1
+              "correctAnswerId" : 1,
               "answers" : [
                 {"answer": "Interpreted", "id": 1},
                 {"answer": "Compiled", "id": 2}
