@@ -26,6 +26,16 @@
                 {"answer": "Yes", "id": 1},
                 {"answer": "No", "id": 2}
               ]
+            },
+            {
+              "id" : 3,
+              "question" : "Which of these is a difference between ruby and python?",
+              "correctAnswerId" : 3,
+              "answers" : [
+                {"answer" : "Ruby is pure OO, python isn't", "id" : 1},
+                {"answer" : "Ruby is dynamically typed, python isn't", "id" : 2},
+                {"answer" : "Ruby built in types can be extended, python built in types can't", "id" : 3}
+              ]
             }
           ],
           "videos" : [
