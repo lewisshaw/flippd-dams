@@ -11,16 +11,18 @@
           "questions" : [
             {
               "question" : "Is ruby Interpreted or compiled?",
+              "correctAnswerId" : 1
               "answers" : [
-                {"answer": "Interpreted", "correct": true},
-                {"answer": "Compiled", "correct": false}
+                {"answer": "Interpreted", "id": 1},
+                {"answer": "Compiled", "id": 2}
               ]
             },
             {
               "question" : "Is ruby duck typed?",
+              "correctAnswerId" : 1,
               "answers" : [
-                {"answer": "Yes", "correct": true},
-                {"answer": "No", "correct": false}
+                {"answer": "Yes", "id": 1},
+                {"answer": "No", "id": 2}
               ]
             }
           ],
