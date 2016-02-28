@@ -7,6 +7,7 @@
       "topics" : [
         {
           "title" : "Ruby",
+          "slug" : "ruby",
           "summary" : "An introduction to Ruby, which is the - purely object-oriented and somewhat functional - programming language used in DAMS.",
           "questions" : [
             {
@@ -100,6 +101,7 @@
         },
         {
           "title" : "Approach",
+          "slug" : "approach",
           "summary" : "A very light introduction to software engineering processes, and a look at some of the challenges you might face when using a reactive (Agile) approach.",
           "videos" : [
             {
@@ -199,6 +201,7 @@
         },
         {
           "title" : "Tools",
+          "slug" : "tools",
           "summary" : "A brief introduction to three of the key tools used in DAMS.",
           "videos" : [
             {
@@ -277,6 +280,7 @@
       "topics" : [
         {
           "title" : "Leaner",
+          "slug" : "leaner",
           "summary" : "Lean software has no extra parts. Every part is factored into small pieces.",
           "videos" : [
             {
@@ -350,6 +354,7 @@
         },
         {
           "title" : "Less Complex",
+          "slug" : "less-complex",
           "summary" : "Methods that have fewer control-flow paths are easier to reason about, and hence easier to maintain.",
           "videos" : [
             {
@@ -428,6 +433,7 @@
         },
         {
           "title" : "Avoiding Duplication",
+          "slug" : "avoiding-duplication",
           "summary" : "Changes are easier to make when every piece of knowledge is specified once and only once.",
           "videos" : [
             {
@@ -501,6 +507,7 @@
         },
         {
           "title" : "Loose Coupling",
+          "slug" : "loose-coupling",
           "summary" : "Loosely coupled software can be altered without affecting its collaborators, and re-used in new contexts.",
           "videos" : [
             {
@@ -564,6 +571,7 @@
         },
         {
           "title" : "More Cohesive",
+          "slug" : "more-cohesive",
           "summary" : "When software is arranged such that similar parts are close to each other, it is easier to maintain because changes are localised.",
           "videos" : [
             {
@@ -627,6 +635,7 @@
         },
         {
           "title" : "Clarity",
+          "slug" : "clarity",
           "summary" : "Code is read much more often than it is written. Therefore, habitable software reads like a good story well told.",
           "videos" : [
             {
@@ -724,6 +733,7 @@
         },
         {
           "title" : "Extensibility",
+          "slug" : "Extensibility",
           "summary" : "Extensible software allows its core functionality to be enriched at runtime without altering its code.",
           "videos" : [
             {
