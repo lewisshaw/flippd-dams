@@ -1,5 +1,19 @@
 {
   "title" : "DAMS",
+  "ratings" : [
+    {
+      "name" : "happy",
+      "symbol" : ":)"
+    },
+    {
+      "name" : "neutral",
+      "symbol" : ":|"
+    },
+    {
+      "name" : "sad",
+      "symbol" : ":("
+    }
+  ],
   "phases" : [
     {
       "title" : "Fundamentals",
