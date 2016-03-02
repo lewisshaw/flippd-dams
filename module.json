@@ -116,6 +116,36 @@
         {
           "title" : "Approach",
           "slug" : "approach",
+          "questions" : [
+            {
+              "id" : 1,
+              "question" : "Is ruby Interpreted or compiled?",
+              "correctAnswerId" : 1,
+              "answers" : [
+                {"answer": "Interpreted", "id": 1},
+                {"answer": "Compiled", "id": 2}
+              ]
+            },
+            {
+              "id" : 2,
+              "question" : "Is ruby duck typed?",
+              "correctAnswerId" : 1,
+              "answers" : [
+                {"answer": "Yes", "id": 1},
+                {"answer": "No", "id": 2}
+              ]
+            },
+            {
+              "id" : 3,
+              "question" : "Which of these is a difference between ruby and python?",
+              "correctAnswerId" : 3,
+              "answers" : [
+                {"answer" : "Ruby is pure OO, python isn't", "id" : 1},
+                {"answer" : "Ruby is dynamically typed, python isn't", "id" : 2},
+                {"answer" : "Ruby built in types can be extended, python built in types can't", "id" : 3}
+              ]
+            }
+          ],
           "summary" : "A very light introduction to software engineering processes, and a look at some of the challenges you might face when using a reactive (Agile) approach.",
           "videos" : [
             {
