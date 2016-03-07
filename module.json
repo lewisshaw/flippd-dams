@@ -21,6 +21,10 @@
       "name" : "lecturer",
       "users" : [
         "lshaw@test.com"
+      ],
+      "name" : "pta",
+      "users" : [
+        "person@test.com"
       ]
     }
   ],
